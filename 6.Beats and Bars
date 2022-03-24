@@ -1,2 +1,4 @@
 1. Beat 4/4. 1234,1234
-2. Bar 4 beat in one bar.
+2. The first number 4 refers to the number of beats in the bar.
+3.So the 4 / 4 means that there are 4 beats in one bar.
+4 The second number 4 refers to the type of beat (quarter note is one beat)
